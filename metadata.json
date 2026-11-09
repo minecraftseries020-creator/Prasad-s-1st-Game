@@ -1,0 +1,6 @@
+{
+  "name": "YES / NO MYSTERY – Ultimate Detective",
+  "description": "Think. Question. Discover the Truth. A complete 200-level offline mystery puzzle investigation game with Detective Alex, deterministic Q&A engine, hints, and multiple game modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

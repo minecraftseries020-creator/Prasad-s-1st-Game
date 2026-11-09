@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="128" fill="#101426"/>
+  <circle cx="256" cy="256" r="210" fill="#1A2140" stroke="#8257FF" stroke-width="12"/>
+  
+  <!-- Detective Magnifying Glass -->
+  <g transform="translate(60, 60)">
+    <!-- Ring -->
+    <circle cx="170" cy="170" r="110" fill="#252D5A" stroke="#FFC857" stroke-width="24"/>
+    <!-- Glass Lens Highlight -->
+    <circle cx="170" cy="170" r="95" fill="#38BDF8" opacity="0.35"/>
+    <path d="M 110 120 Q 170 80 230 120" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" fill="none" opacity="0.8"/>
+    
+    <!-- Big Question Mark in Center -->
+    <text x="170" y="215" text-anchor="middle" font-family="sans-serif" font-weight="900" font-size="110" fill="#FFC857">?</text>
+    
+    <!-- Handle -->
+    <line x1="255" y1="255" x2="350" y2="350" stroke="#8D5B38" stroke-width="36" stroke-linecap="round"/>
+    <line x1="255" y1="255" x2="350" y2="350" stroke="#FFC857" stroke-width="12" stroke-linecap="round" opacity="0.4"/>
+  </g>
+</svg>
